@@ -1,0 +1,13 @@
+Question Answering system on Knowledge Graph
+
+
+Download & install blazegraph(blazegraph.jar)
+https://github.com/blazegraph/database/releases/tag/BLAZEGRAPH_2_1_6_RC
+
+run this command on cmd 
+java -server -Xmx4g -jar blazegraph.jar
+
+upload the .n3 files in the update tab and run in blazegraph
+
+finally run app.py to get outpt like this"streamlit run c:/final/app.py"
+run this command on cmd to see streamlit app on browser

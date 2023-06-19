@@ -1,3 +1,4 @@
+
 # question-answering-system-based-on-knowledgegraph
 Welcome to the Question Answering System based on Knowledge Graph repository! This project aims to develop an intelligent system that can answer natural language questions by leveraging a knowledge graph.
 
@@ -34,7 +35,7 @@ Document any new features or changes in the appropriate sections.
 Ensure your code follows the project's coding style and conventions.
 Create a pull request, providing a detailed description of your changes.
 # License
-The Question Answering System based on Knowledge Graph is licensed free. Feel free to use, modify, and distribute the code as per the terms of the license.
+The Question Answering System based on Knowledge Graph is licensed free. Feel free to use, modify, and distribute the code.
 
 # Contact
 If you have any questions, suggestions, or feedback regarding the project, please contact durairjc@gmail.com.
